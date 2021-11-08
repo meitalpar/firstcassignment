@@ -1,6 +1,5 @@
 FLAG=-Wall
 CC=gcc
-OBJECT_FILES=basicClassification.o advancedClassificationLoop.o advancedClassificationRecursion.o
 AR=ar
 
 all: mains maindloop maindrec
